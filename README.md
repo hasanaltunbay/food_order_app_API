@@ -1,16 +1,14 @@
-# yemek_siparis_uygulamasi
+<h3>Screenshots</h3>
 
-A new Flutter project.
 
-## Getting Started
+<img src=https://github.com/hasanaltunbay/food_order_app_API/assets/132913817/1224bc39-d6e0-4485-bafd-c09c7e184dfe width="200" height="400" />
 
-This project is a starting point for a Flutter application.
+<img src=https://github.com/hasanaltunbay/food_order_app_API/assets/132913817/ed71da3e-947a-4278-8192-20dac0eb09a0 width="200" height="400" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src=https://github.com/hasanaltunbay/food_order_app_API/assets/132913817/102f9026-4bea-4b81-a47a-b00af01ac019 width="200" height="400" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<h3>Technologies</h3>
+
+API: In the context of our application, the API section enables fetching data from the internet.
